@@ -37,7 +37,7 @@ const Banner = () => {
               fontFamily: "Montserrat",
             }}
           >
-            Crypto Hunter
+            Coinio
           </Typography>
           <Typography
             variant="subtitle2"
@@ -47,7 +47,7 @@ const Banner = () => {
               fontFamily: "Montserrat",
             }}
           >
-            Get all the Info regrading your favorite Crypto Currencies
+            Here are the trending cryptocurrencies
           </Typography>
         </div>
         <Carousel />
