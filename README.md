@@ -1,70 +1,49 @@
-# Getting Started with Create React App
+# COINIO
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 
-## Available Scripts
+## Description
 
-In the project directory, you can run:
+Cryptocurrency application that displays crypto prices and financial information about a searched coin. A searchbar is available to filter through the coins to get the desired one. There is also a carousel with the trending cryptocurrency coins in the hero section. Below the searchbar, there is a list of cryptocurrencies in order by market cap rank. When a coin is clicked, the user is taken to a different route and it displays more information about the coin and displays a chart for the price fluctuations. Creat react app was used to build this and frameworks such as Material UI, chartjs, react router dom, and more were used.
 
-### `npm start`
+## Table of Contents
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+Use these links to navigate through this README.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+- [Installation](#installation)
+- [Usage](#usage)
+- [Credits](#credits)
+- [License](#license)
 
-### `npm test`
+## Installation
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+To install this application, open `terminal` and clone in a directory.
 
-### `npm run build`
+    git clone https://github.com/calvin-kim13/coinio.git
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+## Usage
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+Once the application is installed, in the `terminal`, run
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+    npm start
 
-### `npm run eject`
+to use the react application.
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+## LIVE
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+| DEPLOYMENT     | URL                                                   | STATUS    |
+| -------------- | ----------------------------------------------------- | --------- |
+| Repository     | [GitHub Repo](https://github.com/calvin-kim13/coinio) | ACTIVE 🟢 |
+| Published Page | [Coinio](https://coinio.netlify.app/)                 | ACTIVE 🟢 |
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+## Credits
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+N/A
 
-## Learn More
+## License
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+This application is covered under MIT License
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+©2022 Calvin Kim
